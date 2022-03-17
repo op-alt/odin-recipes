@@ -1,2 +1,2 @@
 # odin-recipes
-basic recipe website using only html
+basic recipe website html/css #odinproject
